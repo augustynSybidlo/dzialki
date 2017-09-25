@@ -1,0 +1,21 @@
+ A: [500.18, 'S'] - [1500.0, 'X']
+
+B:                    Total     Average acreage
+Agricultural parcels:   708          989.98
+
+Building plots:         1775          999.59
+
+Land plots:             964          986.12
+
+Forest parcels:         559          1016.75
+
+Recreational land:      994          989.94
+
+C:
+number of lots with:
+
+smallest tax: 1071,
+
+medium tax: 2735,
+
+highest tax: 1194
